@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Plus Jakarta Sans", sans-serif;
+
+  --color-brand-red: #E63946;
+  --color-ink: #1A1A2E;
+  --color-body: #4A4A5A;
+  --color-panel: #F7F7FA;
+}
